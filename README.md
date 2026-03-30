@@ -50,31 +50,6 @@ UI → ViewModel → Repository → Room (DAO)
 
 ---
 
-## 📂 Estructura del proyecto
-com.dgb.taskmasterapp
-│
-├── data
-│   ├── local
-│   │   ├── dao
-│   │   ├── database
-│   │   └── entity
-│   └── repository
-│
-├── domain
-│   ├── model
-│   └── repository
-│
-├── presentation
-│   ├── tasklist
-│   └── components
-│
-├── ui
-│   └── theme
-│
-└── MainActivity.kt
-
----
-
 ## ▶️ Video del tutorial
 
 Este proyecto forma parte de un tutorial completo en YouTube donde se explica paso a paso:
