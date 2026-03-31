@@ -62,7 +62,7 @@ https://youtu.be/UjfbqBYJMM4
 
 1. Clonar el repositorio:
 ```bash
-git clone [https://github.com/tu-usuario/taskmaster.git](https://github.com/daviddagb2/TaskMaster.git)
+git clone https://github.com/daviddagb2/TaskMaster.git
 
 2.	Abrir en Android Studio
 3.	Ejecutar la app en un emulador o dispositivo físico
