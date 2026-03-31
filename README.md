@@ -54,6 +54,8 @@ UI → ViewModel → Repository → Room (DAO)
 
 Este proyecto forma parte de un tutorial completo en YouTube donde se explica paso a paso:
 
+https://youtu.be/UjfbqBYJMM4
+
 ---
 
 ## 📦 Cómo ejecutar el proyecto
