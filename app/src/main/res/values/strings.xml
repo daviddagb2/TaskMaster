@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TaskMaster</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_open_cd">Abrir ajustes</string>
+    <string name="settings_back_cd">Volver</string>
+    <string name="settings_theme_section">Tema de la app</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="theme_system">Según el sistema</string>
 </resources>
